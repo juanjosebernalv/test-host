@@ -1,9 +1,9 @@
 {
   "name": "test-host",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/test-host",
+  "homepage": "https://juanjosebernalv.github.io/test-host/",
   "scripts": {
     "predeploy": "yarn run build",
     "deploy": "gh-pages-d build",
